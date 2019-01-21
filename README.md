@@ -16,6 +16,6 @@ The mesh is built up of BBC micro:bit devices, each allowing the user to send a 
 
 ### GUI
 
-To run the GUI, simply load the site at [psedge.github.io/microalert](https://psedge.github.io/microalert), or open index.html locally.
+To run the GUI, simply load the site at [salmansamie.github.io/microalert](https://salmansamie.github.io/microalert), or open index.html locally.
 
 ![GUI](assets/gui.png)
